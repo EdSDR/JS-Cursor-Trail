@@ -1,4 +1,3 @@
-# JS Cursor Trail
 Java Script Cursor Trail (Mouse Follow)
 =======================================
 
