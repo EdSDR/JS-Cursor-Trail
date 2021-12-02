@@ -9,5 +9,5 @@ The focus of this project has to demonstrate JavaScript ES6 Classes, `script.js`
 
 ### Some Image Demonstrations
 
-![Example 1](https://imgur.com/8gqPVmk)
-![Example 2](https://imgur.com/NU0ap5y)
+![Screenshot from 2021-11-24 15-58-30](https://user-images.githubusercontent.com/89485015/144487570-3811e1f9-cd00-4deb-8207-b41c9a363d95.png)
+![Screenshot from 2021-11-24 15-58-40](https://user-images.githubusercontent.com/89485015/144487573-d7d29a8d-4517-4cd0-87a1-d598076b73a6.png)
